@@ -1,0 +1,9 @@
+# Automatische MATLAB-Sicherungskopien
+*.asv
+*.m~
+
+# Temporaere Arbeitsdateien
+/tmp/
+
+# Lokale Referenzunterlage
+/AutomatisierungVO.pdf
